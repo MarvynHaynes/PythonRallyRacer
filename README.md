@@ -15,11 +15,15 @@ Quick Summary
 -------------
 This is my first attempt of creating a Python app and creating a racing game. 
 
-In this project contains 4 python scripts:
-•	Main.py - The main file that runs the racing game. Sets up the race car and references to various objects and movement definition by calling methods and fuctions in the below classes.
-•	Classes.py - Defines user and opponent car objects and behaviors
-•	Process.py - Defines arrow key input behavior from user
-•	screenWrite.py - Contains a function to write text to screen
+In this project contains 4 python scripts and 1 folder:
+
+•Main.py - The main file that runs the racing game. Sets up the race car and references to various objects and movement definition by calling methods and fuctions in the below classes.
+
+• Classes.py - Defines user and opponent car objects and behaviors
+
+• Process.py - Defines arrow key input behavior from user
+
+• screenWrite.py - Contains a function to write text to screen
 
 • Images folder - contains car images and racetrack (*.png)
 
